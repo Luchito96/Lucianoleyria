@@ -11,7 +11,7 @@
 
 <h3 align="center">A passionate web developer from Argentina, Buenos Aires </h3>
 <h4> I'm a web developer and I love work in front end </h4>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=juancrossetto alt=sachinverma53121/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Lucianoleyria alt=sachinverma53121/></p>
 
 
 <img  width="40%" align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
