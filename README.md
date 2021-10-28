@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning ... **JavaScript and React**
 - 💬 Ask me about ... **Web Develpoment**
-- ⚡ Fun fact ... **Football and videogames**❤
+- ⚡ Fun fact ... **Football and cars**❤
 - 📫 How to reach me **luciano.leyria96@gmail.com**
 <h4>Main Programming Languages/Libraries: </h4>
 <p align="left">
