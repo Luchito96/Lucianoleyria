@@ -17,9 +17,9 @@
 <img  width="40%" align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 🌱 I’m currently learning ... **JavaScript and React**
-- 💬 Ask me about ... **Web Develpoment**
-- ⚡ Fun fact ... **Football and cars**❤
-- 📫 How to reach me **luciano.leyria96@gmail.com**
+- 💬 Ask me about ... **Web Development**
+- ⚡ I like Football ⚽ and racing cars** 
+- 📫 How to contact me **luciano.leyria96@gmail.com**
 <h4>Main Programming Languages/Libraries: </h4>
 <p align="left">
   <img style="margin: auto;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt=nodejs width="100" height="70"/>
