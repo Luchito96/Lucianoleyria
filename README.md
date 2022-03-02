@@ -15,7 +15,7 @@
 
 
 <img  width="40%" align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-- ⚡ I'm currently in bootcamp (SoyHenry)
+<span>- ⚡ I'm currently in bootcamp (SoyHenry)</span>
 - 🌱 I’m currently learning ... **JavaScript and React**
 - ❤️ I love **Web Development**
 - ⚡ I like Football ⚽ and racing cars 🚗 
