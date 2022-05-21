@@ -13,6 +13,8 @@
 <h4> I'm a web developer and I love work in front end </h4>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Lucianoleyria alt=sachinverma53121/></p>
 
+
+<div display="flex">
 <div align="center">
 
 ![my image](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
@@ -26,6 +28,7 @@
 - ❤️ I love **Web Development**
 - ⚡ I like **Football ⚽ and racing cars**
 - 📫 How to contact me **luciano.leyria96@gmail.com**
+</div>
 
 <h4>Main Programming Languages/Libraries: </h4>
 <p align="left">
