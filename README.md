@@ -15,11 +15,11 @@
 
 
 <div style="display:flex;">
-<div align="right" >
+
 
 ![my image](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
-</div>
+
 
 
 
