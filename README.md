@@ -24,12 +24,14 @@
 
 
 
+<ul>
 
- ⚡ I'm currently **in bootcamp (SoyHenry)**
- 🌱 I’m currently learning ... **JavaScript and React**
- ❤️ I love **Web Development**
- ⚡ I like **Football ⚽ and racing cars**
- 📫 How to contact me **luciano.leyria96@gmail.com**
+	<li>⚡ I'm currently **in bootcamp (SoyHenry)**</li>
+	<li>🌱 I’m currently learning ... **JavaScript and React** </li>
+	<li>❤️ I love **Web Development** </li>
+	<li> ⚡ I like **Football ⚽ and racing cars** </li>
+	<li>📫 How to contact me **luciano.leyria96@gmail.com**</li>
+	</ul>
 	
 </div>
 
