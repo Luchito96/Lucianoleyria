@@ -14,7 +14,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Lucianoleyria alt=sachinverma53121/></p>
 
 
-<div style="display:flex;  flex-direction:column">
+<div display="flex"  flex-direction="column">
 <div>
 
 ![my image](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
@@ -23,13 +23,13 @@
 
 
 
-<div>
+
 - ⚡ I'm currently **in bootcamp (SoyHenry)**
 - 🌱 I’m currently learning ... **JavaScript and React**
 - ❤️ I love **Web Development**
 - ⚡ I like **Football ⚽ and racing cars**
 - 📫 How to contact me **luciano.leyria96@gmail.com**
-	</div>
+	
 </div>
 
 <h4>Main Programming Languages/Libraries: </h4>
