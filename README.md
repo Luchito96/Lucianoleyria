@@ -15,7 +15,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Lucianoleyria alt=sachinverma53121/></p>
 
 
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300px" align="right">
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300px" float="right">
 
 
 
