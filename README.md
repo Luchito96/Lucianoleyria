@@ -15,12 +15,10 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Lucianoleyria alt=sachinverma53121/></p>
 
 
-<div display="flex"  flex-direction="column">
-<div>
 
 ![my image](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
-</div>
+
 
 
 
@@ -33,7 +31,7 @@
 	- 📫 How to contact me **luciano.leyria96@gmail.com**
 	
 	
-</div>
+
 
 <h4>Main Programming Languages/Libraries: </h4>
 
