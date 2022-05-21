@@ -14,8 +14,8 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Lucianoleyria alt=sachinverma53121/></p>
 
 
-<div display="flex" flexDirection="column">
-<div align="right">
+<div style="display:flex;">
+<div align="right" >
 
 ![my image](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
