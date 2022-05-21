@@ -26,11 +26,11 @@
 
 <ul>
 
-	<li>⚡ I'm currently **in bootcamp (SoyHenry)**</li>
-	<li>🌱 I’m currently learning ... **JavaScript and React** </li>
-	<li>❤️ I love **Web Development** </li>
-	<li> ⚡ I like **Football ⚽ and racing cars** </li>
-	<li>📫 How to contact me **luciano.leyria96@gmail.com**</li>
+	<li><p>⚡ I'm currently **in bootcamp (SoyHenry)**</p></li>
+	<li><p>🌱 I’m currently learning ... **JavaScript and React** </p></li>
+	<li><p>❤️ I love **Web Development**</p> </li>
+	<li> <p>⚡ I like **Football ⚽ and racing cars** </p></li>
+	<li><p>📫 How to contact me **luciano.leyria96@gmail.com**</p></li>
 	</ul>
 	
 </div>
