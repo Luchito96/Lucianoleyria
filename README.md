@@ -15,7 +15,7 @@
 
 <div align="center">
 
-![my image]("https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif")
+![my image](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
 </div>
 
