@@ -15,7 +15,7 @@
 
 
 
-<div align="right">
+<div align="right" width="40%">
 
 ![my image](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
