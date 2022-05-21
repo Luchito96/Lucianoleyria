@@ -25,11 +25,11 @@
 
 
 
-- ⚡ I'm currently **in bootcamp (SoyHenry)**
-- 🌱 I’m currently learning ... **JavaScript and React**
-- ❤️ I love **Web Development**
-- ⚡ I like **Football ⚽ and racing cars**
-- 📫 How to contact me **luciano.leyria96@gmail.com**
+ ⚡ I'm currently **in bootcamp (SoyHenry)**
+ 🌱 I’m currently learning ... **JavaScript and React**
+ ❤️ I love **Web Development**
+ ⚡ I like **Football ⚽ and racing cars**
+ 📫 How to contact me **luciano.leyria96@gmail.com**
 	
 </div>
 
