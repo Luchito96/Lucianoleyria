@@ -16,11 +16,11 @@
 
 <img  padding="200px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300px" >
 
-- ⚡ I'm currently **in bootcamp (SoyHenry)**
+- ⚡ I'm currently **Using Siebel CRM**
 - 🌱 I’m currently learning ... **JavaScript and React** 
 - ❤️ I love **Web Development**
-- ⚡ I like **Football ⚽ and racing cars** 
-- 📫 How to contact me **luciano.leyria96@gmail.com**
+- ⚡ I like **Football ⚽** 
+- 📫 How to contact me **leyrialu@gmail.com**
 
 
 <h4>Main Programming Languages/Libraries: </h4>
